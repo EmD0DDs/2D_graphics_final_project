@@ -11,7 +11,6 @@ Files:
 - conversion.py - longform colorblindness simulation with each data conversion in its own function.
 - color_blindness.py - shortform colorblindness where the conversions are multiplied together to get one matrix to multiply
 - gaussian.py - same fourier transform that we did in class, but with the Gaussian blur
-- channels.py - first attempt at learning color channels, but just through a tutorial (link for tutorial listed in file)
 - achromatopsia.py - complete colorblindness simulator or the greyscale code used in class
 
 The formula for the colorblindness simulator is listed in the link posted in the file
